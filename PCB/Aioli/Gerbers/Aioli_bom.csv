@@ -1,0 +1,15 @@
+Comment,Designator,Footprint,LCSC Part Number
+ATmega32U4-MU,U1,QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm,C45874
+SW_Push,SW10,SKQG-1155865,C127478
+10K,R6,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+22 ohm,"R5,R4",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23345
+10k,R3,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+5.1k,"R2,R1",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23186
+10uF,C8,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19702
+0.1uF,"C7,C6,C5,C4",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+1uF,C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849
+22pF,"C2,C1",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1653
+16MHz,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738
+USB_C_Receptacle_USB2.0,J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948
+500mA,F1,Fuse_1206_3216Metric,C70076
+D_Small,"D9,D8,D7,D6,D5,D4,D3,D2,D1",D_SOD-123,C81598
